@@ -1,4 +1,4 @@
-![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/67607955080161.597768d22e415.gif)
+![MasterHead](https://github.com/Alejeglez/alejeglez.github.io/blob/main/Banner%20Github.gif?raw=true)
 
 <h1 align="center">Hi 👋, I'm Alejandro González</h1>
 <h3 align="center">A student from the Canary Islands 🌴</h3>
@@ -20,7 +20,7 @@
 dict ale = {
   pronouns: "he" | "him",
   code: [Assembly, R, C, HTML, CSS, Python, Java],
-  tools: [R studio, Intellij, Visual Studio Code, Pycharm],
+  tools: [R studio, Intellij, Visual Studio Code, PyCharm],
   Education and training: {
                         University: "ULPGC",
                         Degree: "Data science and engineering",
