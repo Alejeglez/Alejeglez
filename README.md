@@ -10,9 +10,10 @@
 - 🔭 I’m currently studying Data science and engineering at ULPGC
 - 🌱 I’m currently learning Java, Python, SQlite and web scraping.
 - 🤔 I’m looking for help with the above.
+- 💬 I'm starting, so I wouldn't be sure about asking me.
 - 📫 How to reach me: alejandrojeglezsantana@gmail.com
 
-<img align = "right" src="https://external-preview.redd.it/V5smmYXS8jxBXZsyMVjjYfzBIsio7LGBzLGQqQoVygs.png?format=pjpg&auto=webp&s=8eebda243d1811472ebc9750798c53b9276aedc2" width="400" />
+<img align = "right" src=https://media.tenor.com/YUzRkMOL-3EAAAAC/programming-computer-frog.gif" width="400" />
 
 
 <h3 align="left">Languages and Tools:</h3>
