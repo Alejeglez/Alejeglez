@@ -26,7 +26,7 @@ dict ale = {
                         Degree: "Data science and engineering",
                         Year: "Second"
                       },
- About me: "F1 and football fan, also I enjoy editing videos"
+ About me: "F1 and football fan, also I enjoy editing videos."
  Discord tag: "Astrofut2#6035"
 }
 ```
