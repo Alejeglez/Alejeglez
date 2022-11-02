@@ -1,8 +1,9 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Alejandro González</h1>
+<h3 align="center">A student from the Canary Islands 🌴</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alejeglez&label=Profile%20views&color=0e75b6&style=flat" alt="alejeglez" /> </p>
 
 
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently studying Data science and engineering at ULPGC
 - 🌱 I’m currently learning Java, Python, SQlite and web scraping.
