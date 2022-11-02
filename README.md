@@ -12,7 +12,7 @@
 - 🤔 I’m looking for help with the above.
 - 📫 How to reach me: alejandrojeglezsantana@gmail.com
 
-<img align = "rigth" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="400" />
+<img align = "right" src="https://external-preview.redd.it/V5smmYXS8jxBXZsyMVjjYfzBIsio7LGBzLGQqQoVygs.png?format=pjpg&auto=webp&s=8eebda243d1811472ebc9750798c53b9276aedc2" width="400" />
 
 
 <h3 align="left">Languages and Tools:</h3>
