@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/Alejeglez/Alejeglez/blob/main/67607955080161.597768d22e415%20(1).gif?raw=true)
+![MasterHead](https://github.com/Alejeglez/Alejeglez/blob/main/Banner.jpg?raw=true)
 
 <h1 align="center">Hi 👋, I'm Alejandro González</h1>
 <h3 align="center">A student from the Canary Islands 🌴</h3>
