@@ -10,7 +10,7 @@
 - 🤔 I’m looking for help with the above.
 - 📫 How to reach me: alejandrojeglezsantana@gmail.com
 
-<img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="40" height="40" />
+<img align = "rigth" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="400" />
 
 
 <h3 align="left">Languages and Tools:</h3>
