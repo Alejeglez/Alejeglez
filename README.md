@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with the above 
 - 📫 How to reach me: alejandrojeglezsantana@gmail.com
 
-<img align = "right" alt="Coding" width = "400" scr = "https://media.tenor.com/YUzRkMOL-3EAAAAC/programming-computer-frog.gif">
+<img align = "right" alt="Coding" width = "400" scr = "[https://media.tenor.com/YUzRkMOL-3EAAAAC/programming-computer-frog.gif](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)">
 
 
 <h3 align="left">Languages and Tools:</h3>
