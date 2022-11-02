@@ -14,7 +14,7 @@
 - 📫 How to reach me: alejandrojeglezsantana@gmail.com
 - 🌐 [Portfolio](https://alejeglez.github.io/)
 
-<img align = "right" src= "https://media.tenor.com/YUzRkMOL-3EAAAAC/programming-computer-frog.gif" width="400" height = "300" />
+<img align = "right" src= "https://media.tenor.com/YUzRkMOL-3EAAAAC/programming-computer-frog.gif" width="400" height = "290" />
 
 ```javas
 dict ale = {
