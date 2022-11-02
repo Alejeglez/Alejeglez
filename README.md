@@ -18,6 +18,7 @@
 
 ```javas
 dict ale = {
+  age = 19,
   pronouns: "he" | "him",
   code: [Assembly, R, C, HTML, CSS, Python, Java],
   tools: [R studio, Intellij, Visual Studio Code, PyCharm],
