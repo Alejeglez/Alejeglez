@@ -16,19 +16,18 @@
 
 <img align = "right" src= "https://media.tenor.com/YUzRkMOL-3EAAAAC/programming-computer-frog.gif" width="400" height = "290" />
 
-```javas
-dict ale = {
-  age = 19,
-  pronouns: "he" | "him",
-  code: [Assembly, R, C, HTML, CSS, Python, Java],
-  tools: [R studio, Intellij, Visual Studio Code, PyCharm],
-  Education and training: {
-                        University: "ULPGC",
-                        Degree: "Data science and engineering",
-                        Year: "Second"
+```python
+ale = {
+  "age" = 19,
+  "pronouns": "he" | "him",
+  "code": [Assembly, R, C, HTML, CSS, Python, Java],
+  "tools": [R studio, Intellij, Visual Studio Code, PyCharm],
+  "Education and training": {
+                        "University": "ULPGC",
+                        "Degree": "Data science and engineering",
+                        "Year": "Second"
                       },
- About me: "F1 and football fan and I enjoy editing videos."
- Discord tag: "Astrofut2#6035"
+ "About me": "F1 and football fan, also I enjoy editing videos.",
 }
 ```
 
