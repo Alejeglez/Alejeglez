@@ -17,14 +17,13 @@
 
 ```python
 ale = {
-  "age" = 19,
-  "pronouns": "he" | "him",
+  "age" = 21,
   "code": [ Assembly, R, C, HTML, CSS, Python, Java],
   "tools": [ RStudio, Intellij, Visual Studio Code, PyCharm],
   "Education and training": {
                         "University": "ULPGC",
                         "Degree": "Data science and engineering",
-                        "Year": "Second"
+                        "Year": "Third"
                       },
  "About me": "F1 and football fan, also I enjoy editing videos.",
 }
