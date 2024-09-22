@@ -7,8 +7,8 @@
 
 
 
-- 🔭 I’m currently studying Data science and engineering at ULPGC (Third year).
-- 🌱 I’m currently learning Virtualization, Network Services Administration and NoSQL databases.
+- 🔭 I’m currently studying Data science and engineering at ULPGC (Fourth year).
+- 🌱 I’m currently learning NLP, BIO, tourism, AWS and image processing.
 - 💬 I'm starting, so I wouldn't be sure about asking me.
 - 📫 How to reach me: alejandrojeglezsantana@gmail.com
 - 🌐 [Portfolio](https://alejeglez.github.io/)
