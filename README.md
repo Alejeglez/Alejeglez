@@ -23,7 +23,7 @@ ale = {
   "Education and training": {
                         "University": "ULPGC",
                         "Degree": "Data science and engineering",
-                        "Year": "Third"
+                        "Year": "Fourth"
                       },
  "About me": "F1 and football fan, also I enjoy editing videos.",
 }
