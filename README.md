@@ -43,9 +43,7 @@ ale = {
     "Relational and Non-Relational Databases",
     "Distributed Systems",
     "Basic Cybersecurity",
-    "Basic Bioinformatics",
-    "Linux System Administration",
-    "GDPR / LOPDGDD"
+    "Linux System Administration"
   ]
 }
 ```
