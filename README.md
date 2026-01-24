@@ -7,9 +7,8 @@
 
 
 
-- 🔭 I’m currently studying Data science and engineering at ULPGC (Fourth year).
-- 🌱 I’m currently learning NLP, BIO, tourism, AWS and image processing.
-- 💬 I'm starting, so I wouldn't be sure about asking me.
+- 🎓 Graduated in Data Science and Engineering from ULPGC.
+- 🔭 Currently studying a Master’s Degree in Tourism: Digitalization, Innovation and Intelligence.
 - 📫 How to reach me: alejandrojeglezsantana@gmail.com
 - 🌐 [Portfolio](https://alejeglez.github.io/)
 
